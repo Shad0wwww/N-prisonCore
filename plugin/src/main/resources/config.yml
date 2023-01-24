@@ -1,0 +1,12 @@
+server-messages:
+  # Beskeden der ville blive sendt når en person joiner
+  join: "&aJoin %player%"
+  # Beskeden der ville blive sendt når en person leaver
+  leave: "&cLeave %player%"
+
+canceller-toggling:
+  allow-portal-creation: false # Allows players to create portals
+  allow-explosions: false # Allows explosions
+  allow-weather-changes: false # Allows weather changes
+  allow-lightning-strikes: false # Allows lightning strikes
+  send-activity-message: true # Enables custom join / leave messages

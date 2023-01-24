@@ -1,0 +1,9 @@
+name: PrisonCore
+version: '${project.pluginVersion}'
+main: dk.nprison.nprsioncore.PrisonCore
+authors: [ Shad0wsense ]
+description: hmmm....
+softdepend:
+  - Vault
+  - PlaceholderAPI
+commands:
