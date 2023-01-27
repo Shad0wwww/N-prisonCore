@@ -7,7 +7,6 @@
     <groupId>dk.nprsion.nprisoncore</groupId>
     <artifactId>PrisonCore</artifactId>
     <version>1.0</version>
-
     <packaging>pom</packaging>
 
     <properties>
